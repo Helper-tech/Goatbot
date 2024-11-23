@@ -1,12 +1,12 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "Aki Bot",
+    "password": "Aki09051294404",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
-    "intervalGetNewCookie": 1440,
+    "intervalGetNewCookie": 20000000,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
   "antiInbox": false,
@@ -17,29 +17,29 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100000768468627",
-    "100030205562796",
+    "100094202834302",
+    "61565722225193",
     "",
     "",
-    "100082247235177"
+    "61551754653557"
   ],
   "GOD": [
-    "100000768468627",
-    "100089495797706"
+    "61551754653557",
+    "100094202834302"
   ],
   "DEV": [
-    "100000768468627",
-    "100089495797706"
+    "61551754653557",
+    "100094202834302"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𓆩X-NiL‣᭄𓆪-143🔥",
-  "authorName": "𝐗𝐍𝐈𝐋",
-  "authorFB": "https://www.facebook.com/xnilxhowdhury143",
-  "authorEmail": "xnilxhowdhury@gmail.com",
+  "nickNameBot": "𝐀𝐊𝐈-𝐁𝐎𝐓",
+  "authorName": "𝐃𝐨𝐧𝐫𝐞𝐥-𝐗-𝐈𝐧𝐭𝐚",
+  "authorFB": "https://www.facebook.com/profile.php?id=100094202834302",
+  "authorEmail": "donrel658@gmail.com ",
   "prefix": "/",
   "database": {
     "type": "sqlite",
